@@ -1,4 +1,5 @@
-baseURL: "https://example.org/blog/"
+# baseURL: "https://limjeng.github.io/"
+baseURL: "https://limjeng.github.io/blog/"
 languageCode: "en-us"
 title: "limjeng"
 pagination.pagerSize: 5

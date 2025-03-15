@@ -1,4 +1,3 @@
-# baseURL: "https://limjeng.github.io/"
 baseURL: "https://limjeng.github.io/blog/"
 languageCode: "en-us"
 title: "limjeng"
@@ -64,7 +63,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Lim Jeng
     subtitle: "Welcome to my blog. Where I try my best to talk about things that interest me."
-    imageUrl: "/images/profile.jpg"
+    imageUrl: "images/profile.jpg"
     imageWidth: 150
     imageHeight: 150
     imageTitle: My Profile Picture

@@ -10,7 +10,6 @@ body {
     margin: 0;
 }
 
-
 .post-content figure>figcaption {
     margin: 0;
 }
@@ -18,4 +17,8 @@ body {
 .post-content figure>figcaption>p {
     color: var(--primary);
     font-size: 14px;
+}
+
+.social-icons a {
+    border-bottom: 0;
 }

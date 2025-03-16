@@ -31,6 +31,8 @@ I love sports and video games. You can bet on finding me in one of these activit
 
 {{< figure align="center" caption="Winning this match won me my first squash trophy" src="about2.jpg" >}}
 
+p.s. If you're wondering why I've added art pieces to my posts — I like 'em :)
+
 <!-- {{< figure align=center src="image.jpg" >}} -->
 
 <!-- <figcaption>Graduating as a Naval Military Police Specialist</figcaption> -->

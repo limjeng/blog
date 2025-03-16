@@ -1,11 +1,12 @@
-+++
-date = '2025-03-13T17:15:55+08:00'
-draft = false
-title = 'Test Post'
-tags = ['test']
-author = ['Me']
-searchHidden = false
-+++
+---
+author: ["me"]
+date: "2025-03-13T17:15:55+08:00"
+draft: false
+searchHidden: false
+tags: ["test", "test2"]
+series: ["hi"]
+title: Test Post
+---
 
 ## Introduction
 

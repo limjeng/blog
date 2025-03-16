@@ -21,5 +21,20 @@
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Hello World!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>&lt;h3 id=&#34;welcome&#34;&gt;Welcome!&lt;/h3&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m Jeng — a Master&amp;rsquo;s student studying at &lt;a href=&#34;https://www.smu.edu.sg/&#34;&gt;Singapore Management University&lt;/a&gt; in Quantitative Finance. I have my aspirations set on being a quant, and I have so much more to learn. This place will be my Great Library of Alexandria, where I store the many thoughts and invaluable knowledge throughout my journey.&lt;/p&gt;
+&lt;p&gt;Currently, I&amp;rsquo;m exploring these areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial intelligence (machine learning &amp;amp; neural networks) in finance.&lt;/li&gt;
+&lt;li&gt;Research and development of trading strategies in financial markets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hobbies--interests&#34;&gt;Hobbies &amp;amp; Interests&lt;/h3&gt;
+&lt;p&gt;I love sports and video games. You can bet on finding me in one of these activities during my free time. I play squash competitively in Singapore&amp;rsquo;s &lt;a href=&#34;https://sgsquash.com/national-squash-league/&#34;&gt;National Squash League&lt;/a&gt; and am a casual high-rank player (Top 0.01% in South East Asia) in &lt;a href=&#34;https://www.dota2.com/&#34;&gt;Dota 2&lt;/a&gt;. Other sports and games include badminton, table tennis, cycling, League of Legends, Counter Strike and more!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

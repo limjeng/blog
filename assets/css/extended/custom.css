@@ -1,0 +1,21 @@
+body {
+    text-align: justify;
+}
+
+.post-content img[src*="#center"] {
+    margin: 0;
+}
+
+.post-content img {
+    margin: 0;
+}
+
+
+.post-content figure>figcaption {
+    margin: 0;
+}
+
+.post-content figure>figcaption>p {
+    color: var(--primary);
+    font-size: 14px;
+}

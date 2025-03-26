@@ -3,14 +3,12 @@ author: ["me"]
 date: "2025-03-13T17:15:55+08:00"
 draft: false
 searchHidden: false
-tags: ["test", "test2"]
+tags: ["stay tuned"]
 series: ["hi"]
-title: Test Post
+title: I'm working on my first Blog! Stay tuned!
 ---
 
-## Introduction
-
-**Hello World!**
+**Working on my first blog on an arbitrage free smile interpolator**
 
 <!-- title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00

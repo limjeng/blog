@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Test2 on limjeng</title>
-    <link>http://localhost:1313/blog/tags/test2/</link>
-    <description>Recent content in Test2 on limjeng</description>
+    <title>Stay Tuned on limjeng</title>
+    <link>http://localhost:1313/blog/tags/stay-tuned/</link>
+    <description>Recent content in Stay Tuned on limjeng</description>
     <image>
       <title>limjeng</title>
       <url>http://localhost:1313/blog/jenglim2.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 17:15:55 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/test2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/stay-tuned/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I&#39;m working on my first Blog!</title>
       <link>http://localhost:1313/blog/posts/test-post/</link>
